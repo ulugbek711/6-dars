@@ -1,0 +1,1046 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.box {
+  width: 1440px;
+  height: 4022px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px 10px gray;
+
+}
+
+header {
+  width: 1140px;
+  height: 46px;
+  /* background-color: aqua; */
+  position: relative;
+  top: 30px;
+  left: 150px;
+
+}
+
+.row {
+  width: 44px;
+  height: 43px;
+  background-image: url('../img/615px-Food_Network_New_Logo\ 2.png');
+
+}
+
+ul li {
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: -50px;
+  left: 120px;
+  font-family: sans-serif;
+  color: gray;
+
+}
+
+ul li:hover {
+  color: rgb(0, 0, 0);
+}
+
+
+.you {
+  width: 155px;
+  height: 46px;
+  flex-shrink: 0;
+  background-color: orange;
+  border: 4px solid orange;
+  position: relative;
+  left: 985px;
+  top: -95px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 10px;
+
+}
+
+.you:hover {
+  background-color: white;
+  color: orange;
+
+}
+
+.you p {
+  margin-top: 7px;
+}
+
+.ll h3 {
+  width: 555px;
+  height: 161px;
+  position: relative;
+  top: 236px;
+  left: 150px;
+
+}
+
+.lol p {
+  width: 555px;
+  height: 43px;
+  position: relative;
+  top: 270px;
+  left: 150px;
+  opacity: 70%;
+
+}
+
+.lop {
+  width: 700px;
+  height: 670px;
+  background-image: url('../img/CSmJnTefxM\ 1.png');
+  position: relative;
+  top: -110px;
+  left: 700px;
+
+}
+
+
+.lil {
+  width: 155px;
+  height: 46px;
+  flex-shrink: 0;
+  background-color: orange;
+  border: 4px solid orange;
+  position: relative;
+  left: 150px;
+  top: -350px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 10px;
+
+}
+
+.lil:hover {
+  background-color: white;
+  color: orange;
+
+}
+
+.lil p {
+  margin-top: 7px;
+}
+
+
+
+.lill {
+  width: 155px;
+  height: 46px;
+  flex-shrink: 0;
+  border: 4px solid orange;
+  position: relative;
+  left: 338px;
+  top: -395px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 10px;
+  color: orange;
+
+}
+
+.lill:hover {
+  background-color: orange;
+  color: white;
+
+}
+
+.lill p {
+  margin-top: 7px;
+}
+
+.kk {
+  width: 555px;
+  height: 500px;
+  background-image: url('../img/Mask\ Group.png');
+  position: relative;
+  top: 50px;
+  left: 151px;
+
+}
+
+.k {
+  width: 98px;
+  height: 16px;
+  position: relative;
+  top: -350px;
+  left: 803px;
+  opacity: 0.7px;
+
+}
+
+.h h3 {
+  width: 487px;
+  height: 112px;
+  position: relative;
+  top: -320px;
+  left: 804px;
+
+}
+
+.gf {
+  width: 487px;
+  height: 76px;
+  position: relative;
+  top: -300px;
+  left: 804px;
+  opacity: 0.7px;
+
+}
+
+
+.men {
+  width: 155px;
+  height: 46px;
+  flex-shrink: 0;
+  background-color: orange;
+  border: 4px solid orange;
+  position: relative;
+  left: 804px;
+  top: -270px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 10px;
+
+}
+
+.men:hover {
+  background-color: white;
+  color: orange;
+
+}
+
+.men p {
+  margin-top: 7px;
+}
+
+.menu {
+  width: 55px;
+  height: 24px;
+  position: relative;
+
+  left: 692px;
+  opacity: 0.7px;
+  color: orange;
+
+}
+
+.d {
+  width: 325px;
+  height: 24px;
+  background-image: url('../img/Food\ Full\ of\ treaty\ Love.png');
+  position: relative;
+  top: 20px;
+  left: 556px;
+
+}
+
+.p p {
+  width: 748px;
+  height: 64px;
+  position: relative;
+  top: 50px;
+  left: 346px;
+  text-align: center;
+  opacity: 0.7px
+}
+
+.u {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: 200px;
+  left: 150px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.m {
+  width: 360px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-image: url('../img/1.1.1.png');
+
+
+}
+
+.m h3 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+
+
+}
+
+.m h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.m p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.j {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.j:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hy ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hy ul li:hover {
+  color: gainsboro;
+}
+
+.hy ul li:nth-child(5) {
+  color: gainsboro;
+
+}
+
+.hy ul li:nth-child(5):hover {
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ua {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: -245px;
+  left: 540px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.ma {
+  width: 360px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-image: url('../img/1.1.2.png');
+
+
+}
+
+.ma h3 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+
+
+}
+
+.ma h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.ma p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.ja {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.ja:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hya ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hya ul li:hover {
+  color: gainsboro;
+}
+
+
+
+
+
+
+
+
+
+
+
+.uab {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: -691px;
+  left: 930px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.mab {
+  width: 362px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -4px;
+  background-image: url('../img/1.1.3.png');
+
+
+}
+
+.mab h3 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+
+
+}
+
+.mab h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.mab p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.jab {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.jab:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hyab ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hyab ul li:hover {
+  color: gainsboro;
+}
+
+.hyab ul li:nth-child(4) {
+  color: gainsboro;
+
+}
+
+.hyab ul li:nth-child(4):hover {
+  color: orange;
+}
+
+.hyab ul li:nth-child(5) {
+  color: gainsboro;
+
+}
+
+.hyab ul li:nth-child(5):hover {
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.uabb {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: -661px;
+  left: 150px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.mabb {
+  width: 360px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-image: url('../img/1.1.4.png');
+
+
+}
+
+.mabb h3 {
+  width: 238px;
+  height: 24px;
+
+
+  position: relative;
+  top: 283px;
+  left: 30px;
+
+
+}
+
+.mabb h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.mabb p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.jabb {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.jabb:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hyabb ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hyabb ul li:hover {
+  color: gainsboro;
+}
+
+.hyabb ul li:nth-child(4) {
+  color: gainsboro;
+
+}
+
+.hyabb ul li:nth-child(4):hover {
+  color: orange;
+}
+
+.hyabb ul li:nth-child(3) {
+  color: gainsboro;
+
+}
+
+.hyabb ul li:nth-child():hover {
+  color: orange;
+}
+
+.hyabb ul li:nth-child(5) {
+  color: gainsboro;
+
+}
+
+.hyabb ul li:nth-child(5):hover {
+  color: orange;
+}
+
+
+
+
+
+.uabbf {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: -1107px;
+  left: 540px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.mabbf {
+  width: 360px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -1px;
+  background-image: url('../img/1.1.5.png');
+
+
+}
+
+.mabbf h3 {
+  width: 238px;
+  height: 24px;
+
+
+  position: relative;
+  top: 283px;
+  left: 30px;
+
+
+}
+
+.mabbf h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.mabbf p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.jabbf {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.jabbf:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hyabbf ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hyabbf ul li:hover {
+  color: gainsboro;
+}
+
+.hyabbf ul li:nth-child(5) {
+  color: gainsboro;
+
+}
+
+.hyabbf ul li:nth-child(5):hover {
+  color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.uabbfa {
+  width: 360px;
+  height: 446px;
+  position: relative;
+  top: -1553px;
+  left: 930px;
+  border: 1px solid gray;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.mabbfa {
+  width: 362px;
+  height: 264px;
+  position: relative;
+  top: -1px;
+  left: -4px;
+  background-image: url('../img/1.1.3.png');
+
+
+}
+
+.mabbfa h3 {
+  width: 190px;
+  height: 24px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+
+
+}
+
+.mabbfa h4 {
+  width: 146px;
+  height: 24px;
+  position: relative;
+  top: 258px;
+  left: 280px;
+}
+
+.mabbfa p {
+  width: 310px;
+  height: 38px;
+  position: relative;
+  top: 280px;
+  left: 30px;
+  opacity: 0.7px;
+  color: gray;
+
+}
+
+.jabbfa {
+  width: 36px;
+  height: 34px;
+  position: relative;
+  top: 125px;
+  left: 30px;
+  border-radius: 5px;
+  background-color: orange;
+}
+
+.jabbfa:hover {
+  background-color: white;
+  border: 3px solid orange;
+  cursor: pointer;
+}
+
+
+.hyabbfa ul li {
+  width: 16px;
+  height: 15.4px;
+
+
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 75px;
+  left: 180px;
+  color: orange;
+
+}
+
+.hyabbfa ul li:hover {
+  color: gainsboro;
+}
+
+.hyabbfa ul li:nth-child(4) {
+  color: gainsboro;
+
+}
+
+.hyabbfa ul li:nth-child(4):hover {
+  color: orange;
+}
+
+.hyabbfa ul li:nth-child(5) {
+  color: gainsboro;
+
+}
+
+.hyabbfa ul li:nth-child(5):hover {
+  color: orange;
+}
+
+.kio {
+  width: 142px;
+  height: 42px;
+  flex-shrink: 0;
+  border: 1px solid gray;
+  position: relative;
+  top: -1500px;
+  left: 649px;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  border-radius: 10px;
+  color: orange;
+
+}
+
+.kio p {
+  margin-top: 7px;
+}
+
+.kio:hover {
+  background-color: orange;
+  color: white;
+  cursor: pointer;
+  border: 1px solid orange;
+
+}
+
+.box1 {
+  width: 1440px;
+  height: 448px;
+  background-color: pink;
+  position: relative;
+  top: -1450px;
+
+}
+
+.box3 p {
+  width: 94px;
+  height: 19px;
+  position: relative;
+  left: 673px;
+  top: 100px;
+
+
+}
+
+.box4 h3 {
+  width: 749px;
+  height: 61px;
+  position: relative;
+  top: 130px;
+  left: 345.5px;
+  text-align: center;
+
+}
+
+input {
+  width: 750px;
+  height: 75px;
+  position: relative;
+  top: 200px;
+  left: 345px;
+  border-radius: 10px;
+
+}
+
+.wew {
+  width: 200px;
+  height: 75px;
+  background-color: orange;
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  top: 125px;
+  left: 895px;
+
+}
+
+.wew p {
+  margin-top: 10px;
+}
+
+.box5 {
+  width: 1440px;
+  height: 433px;
+  background-color: black;
+  position: relative;
+  top: -1450px;
+
+}
+
+ol li{
+  display: inline-block;
+  padding: 12px;
+  margin-top: 10px;
+  position: relative;
+  top: 50px;
+  left:350px;
+  font-family: sans-serif;
+  color:white;
+}
+.box7 ol li{
+  position: relative;
+  top: -260px;
+  left: 600px;
+}
+.box8 ol li{
+  position: relative;
+  top: -570px;
+  left: 850px;
+}
